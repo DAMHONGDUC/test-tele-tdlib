@@ -1,0 +1,1736 @@
+{
+  "_": "messages",
+  "total_count": 30,
+  "messages": [
+    {
+      "_": "message",
+      "id": 1101004800,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676717572,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "yes sir", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1099956224,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676558076,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "duc ne", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1098907648,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676557604,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "haha", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1097859072,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676557244,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "mua ban ghe", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1096810496,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676557229,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "mua lap top", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1095761920,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676557066,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "huhu", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1094713344,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676556597,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "duc ddd", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1093664768,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555970,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "hehe", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1092616192,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555708,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "duc", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1091567616,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555642,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "hello", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1090519040,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555608,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "hello", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1089470464,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5814706010 },
+      "chat_id": 5814706010,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555550,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "Welcome", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1088421888,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555549,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/start",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 6,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1087373312,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555547,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/satrt",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 6,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1086324736,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555542,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageAnimatedEmoji",
+        "animated_emoji": {
+          "_": "animatedEmoji",
+          "sticker": {
+            "_": "sticker",
+            "set_id": "1258816259751983",
+            "width": 320,
+            "height": 320,
+            "emoji": "👍",
+            "format": { "_": "stickerFormatTgs" },
+            "type": { "_": "stickerTypeRegular" },
+            "custom_emoji_id": "0",
+            "outline": [
+              {
+                "_": "closedVectorPath",
+                "commands": [
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 205.625,
+                      "y": 291.875
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 196.875,
+                      "y": 285.625
+                    },
+                    "end_point": { "_": "point", "x": 187.5, "y": 283.75 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 175,
+                      "y": 281.25
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 161.25,
+                      "y": 284.375
+                    },
+                    "end_point": { "_": "point", "x": 149.375, "y": 284.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 137.5,
+                      "y": 283.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 125.625,
+                      "y": 280.625
+                    },
+                    "end_point": { "_": "point", "x": 115, "y": 275.625 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 111.25,
+                      "y": 273.75
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 106.25,
+                      "y": 269.375
+                    },
+                    "end_point": { "_": "point", "x": 103.125, "y": 268.125 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 92.5,
+                      "y": 265
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 80.625,
+                      "y": 273.75
+                    },
+                    "end_point": { "_": "point", "x": 70, "y": 272.5 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 49.375,
+                      "y": 269.375
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 40,
+                      "y": 244.375
+                    },
+                    "end_point": { "_": "point", "x": 36.875, "y": 226.25 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 33.75,
+                      "y": 208.75
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 37.5,
+                      "y": 153.75
+                    },
+                    "end_point": { "_": "point", "x": 60, "y": 149.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 71.25,
+                      "y": 147.5
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 86.875,
+                      "y": 151.875
+                    },
+                    "end_point": { "_": "point", "x": 95.625, "y": 141.875 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 103.125,
+                      "y": 133.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 108.125,
+                      "y": 122.5
+                    },
+                    "end_point": { "_": "point", "x": 115.625, "y": 114.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 124.375,
+                      "y": 105
+                    },
+                    "end_control_point": { "_": "point", "x": 135, "y": 97.5 },
+                    "end_point": { "_": "point", "x": 143.125, "y": 88.125 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 153.75,
+                      "y": 75.625
+                    },
+                    "end_control_point": { "_": "point", "x": 135, "y": 5 },
+                    "end_point": { "_": "point", "x": 176.25, "y": 28.125 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 221.875,
+                      "y": 53.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 177.5,
+                      "y": 110.625
+                    },
+                    "end_point": { "_": "point", "x": 185.625, "y": 126.25 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 191.875,
+                      "y": 138.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 258.125,
+                      "y": 121.875
+                    },
+                    "end_point": { "_": "point", "x": 275.625, "y": 151.875 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 285,
+                      "y": 167.5
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 274.375,
+                      "y": 175
+                    },
+                    "end_point": { "_": "point", "x": 275, "y": 184.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 275.625,
+                      "y": 191.25
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 283.125,
+                      "y": 196.25
+                    },
+                    "end_point": { "_": "point", "x": 282.5, "y": 205 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 281.875,
+                      "y": 215.625
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 273.75,
+                      "y": 217.5
+                    },
+                    "end_point": { "_": "point", "x": 270.625, "y": 225 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 269.375,
+                      "y": 227.5
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 273.75,
+                      "y": 238.75
+                    },
+                    "end_point": { "_": "point", "x": 272.5, "y": 242.5 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 270.625,
+                      "y": 251.875
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 263.125,
+                      "y": 253.125
+                    },
+                    "end_point": { "_": "point", "x": 258.75, "y": 259.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 257.5,
+                      "y": 261.25
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 259.375,
+                      "y": 267.5
+                    },
+                    "end_point": { "_": "point", "x": 257.5, "y": 270 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 251.875,
+                      "y": 287.5
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 232.5,
+                      "y": 291.25
+                    },
+                    "end_point": { "_": "point", "x": 216.25, "y": 291.25 }
+                  },
+                  {
+                    "_": "vectorPathCommandLine",
+                    "end_point": { "_": "point", "x": 216.25, "y": 290 }
+                  }
+                ]
+              }
+            ],
+            "thumbnail": {
+              "_": "thumbnail",
+              "format": { "_": "thumbnailFormatWebp" },
+              "width": 128,
+              "height": 128,
+              "file": {
+                "_": "file",
+                "id": 7,
+                "size": 3848,
+                "expected_size": 3848,
+                "local": {
+                  "_": "localFile",
+                  "path": "",
+                  "can_be_downloaded": true,
+                  "can_be_deleted": false,
+                  "is_downloading_active": false,
+                  "is_downloading_completed": false,
+                  "download_offset": 0,
+                  "downloaded_prefix_size": 0,
+                  "downloaded_size": 0
+                },
+                "remote": {
+                  "_": "remoteFile",
+                  "id": "AAMCAQADFQABY_SOsWrjmtST6GCVsmCeBuLlWX0AAgICAALxt-hH75Umgn47BZABAAdtAAMpBA",
+                  "unique_id": "AQADAgIAAvG36Edy",
+                  "is_uploading_active": false,
+                  "is_uploading_completed": true,
+                  "uploaded_size": 3848
+                }
+              }
+            },
+            "is_premium": false,
+            "sticker": {
+              "_": "file",
+              "id": 8,
+              "size": 25835,
+              "expected_size": 25835,
+              "local": {
+                "_": "localFile",
+                "path": "",
+                "can_be_downloaded": true,
+                "can_be_deleted": false,
+                "is_downloading_active": false,
+                "is_downloading_completed": false,
+                "download_offset": 0,
+                "downloaded_prefix_size": 0,
+                "downloaded_size": 0
+              },
+              "remote": {
+                "_": "remoteFile",
+                "id": "CAACAgEAAxUAAWP0jrFq45rUk-hglbJgngbi5Vl9AAICAgAC8bfoR--VJoJ-OwWQKQQ",
+                "unique_id": "AgADAgIAAvG36Ec",
+                "is_uploading_active": false,
+                "is_uploading_completed": true,
+                "uploaded_size": 25835
+              }
+            }
+          },
+          "fitzpatrick_type": 0
+        },
+        "emoji": "👍"
+      }
+    },
+    {
+      "_": "message",
+      "id": 1085276160,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555524,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageAnimatedEmoji",
+        "animated_emoji": {
+          "_": "animatedEmoji",
+          "sticker": {
+            "_": "sticker",
+            "set_id": "1258816259751983",
+            "width": 320,
+            "height": 320,
+            "emoji": "❤",
+            "format": { "_": "stickerFormatTgs" },
+            "type": { "_": "stickerTypeRegular" },
+            "custom_emoji_id": "0",
+            "outline": [
+              {
+                "_": "closedVectorPath",
+                "commands": [
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": { "_": "point", "x": 135, "y": 295 },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 114.375,
+                      "y": 263.75
+                    },
+                    "end_point": { "_": "point", "x": 97.5, "y": 245 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 57.5,
+                      "y": 200
+                    },
+                    "end_control_point": { "_": "point", "x": -6.25, "y": 130 },
+                    "end_point": { "_": "point", "x": 26.875, "y": 63.75 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 35.625,
+                      "y": 45.625
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 51.875,
+                      "y": 31.875
+                    },
+                    "end_point": { "_": "point", "x": 71.875, "y": 26.875 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 96.25,
+                      "y": 20.625
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 123.125,
+                      "y": 28.75
+                    },
+                    "end_point": { "_": "point", "x": 141.875, "y": 46.25 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 143.75,
+                      "y": 48.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 156.25,
+                      "y": 65.625
+                    },
+                    "end_point": { "_": "point", "x": 158.75, "y": 65.625 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 160.625,
+                      "y": 65.625
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 178.125,
+                      "y": 43.75
+                    },
+                    "end_point": { "_": "point", "x": 180.625, "y": 41.875 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 207.5,
+                      "y": 21.25
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 246.25,
+                      "y": 18.125
+                    },
+                    "end_point": { "_": "point", "x": 272.5, "y": 40.625 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 345.625,
+                      "y": 103.125
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 254.375,
+                      "y": 207.5
+                    },
+                    "end_point": { "_": "point", "x": 210.625, "y": 254.375 }
+                  },
+                  {
+                    "_": "vectorPathCommandCubicBezierCurve",
+                    "start_control_point": {
+                      "_": "point",
+                      "x": 200.625,
+                      "y": 265.625
+                    },
+                    "end_control_point": {
+                      "_": "point",
+                      "x": 174.375,
+                      "y": 300
+                    },
+                    "end_point": { "_": "point", "x": 159.375, "y": 300.625 }
+                  }
+                ]
+              }
+            ],
+            "thumbnail": {
+              "_": "thumbnail",
+              "format": { "_": "thumbnailFormatWebp" },
+              "width": 128,
+              "height": 128,
+              "file": {
+                "_": "file",
+                "id": 974,
+                "size": 3586,
+                "expected_size": 3586,
+                "local": {
+                  "_": "localFile",
+                  "path": "",
+                  "can_be_downloaded": true,
+                  "can_be_deleted": false,
+                  "is_downloading_active": false,
+                  "is_downloading_completed": false,
+                  "download_offset": 0,
+                  "downloaded_prefix_size": 0,
+                  "downloaded_size": 0
+                },
+                "remote": {
+                  "_": "remoteFile",
+                  "id": "AAMCAQADFQABY_SOsQwG9jhCOtZ9Rtu5P4RCimUAAskHAALjeAQAAYRJDomxU5pbAQAHbQADKQQ",
+                  "unique_id": "AQADyQcAAuN4BAABcg",
+                  "is_uploading_active": false,
+                  "is_uploading_completed": true,
+                  "uploaded_size": 3586
+                }
+              }
+            },
+            "is_premium": false,
+            "sticker": {
+              "_": "file",
+              "id": 975,
+              "size": 56205,
+              "expected_size": 56205,
+              "local": {
+                "_": "localFile",
+                "path": "",
+                "can_be_downloaded": true,
+                "can_be_deleted": false,
+                "is_downloading_active": false,
+                "is_downloading_completed": false,
+                "download_offset": 0,
+                "downloaded_prefix_size": 0,
+                "downloaded_size": 0
+              },
+              "remote": {
+                "_": "remoteFile",
+                "id": "CAACAgEAAxUAAWP0jrEMBvY4QjrWfUbbuT-EQoplAALJBwAC43gEAAGESQ6JsVOaWykE",
+                "unique_id": "AgADyQcAAuN4BAAB",
+                "is_uploading_active": false,
+                "is_uploading_completed": true,
+                "uploaded_size": 56205
+              }
+            }
+          },
+          "fitzpatrick_type": 0
+        },
+        "emoji": "❤️"
+      }
+    },
+    {
+      "_": "message",
+      "id": 1084227584,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5814706010 },
+      "chat_id": 5814706010,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555512,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "Send me a sticker",
+          "entities": []
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1083179008,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555512,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/help",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 5,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1082130432,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5814706010 },
+      "chat_id": 5814706010,
+      "is_outgoing": false,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555505,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "Welcome", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1081081856,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555505,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/start",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 6,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1080033280,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555454,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "hello", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1078984704,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676555049,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "l", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1077936128,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554926,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "kkkk", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1076887552,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554876,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "alolop", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1075838976,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554834,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "hello", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1074790400,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554581,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/help",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 5,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1073741824,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554528,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "start", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1072693248,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554235,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "kaka", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1071644672,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554192,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": { "_": "formattedText", "text": "key", "entities": [] }
+      }
+    },
+    {
+      "_": "message",
+      "id": 1070596096,
+      "sender_id": { "_": "messageSenderUser", "user_id": 5646627349 },
+      "chat_id": 5814706010,
+      "is_outgoing": true,
+      "is_pinned": false,
+      "can_be_edited": false,
+      "can_be_forwarded": true,
+      "can_be_saved": true,
+      "can_be_deleted_only_for_self": true,
+      "can_be_deleted_for_all_users": true,
+      "can_get_added_reactions": false,
+      "can_get_statistics": false,
+      "can_get_message_thread": false,
+      "can_get_viewers": false,
+      "can_get_media_timestamp_links": false,
+      "has_timestamped_media": true,
+      "is_channel_post": false,
+      "contains_unread_mention": false,
+      "date": 1676554129,
+      "edit_date": 0,
+      "unread_reactions": [],
+      "reply_in_chat_id": 0,
+      "reply_to_message_id": 0,
+      "message_thread_id": 0,
+      "ttl": 0,
+      "ttl_expires_in": 0,
+      "via_bot_user_id": 0,
+      "author_signature": "",
+      "media_album_id": "0",
+      "restriction_reason": "",
+      "content": {
+        "_": "messageText",
+        "text": {
+          "_": "formattedText",
+          "text": "/start",
+          "entities": [
+            {
+              "_": "textEntity",
+              "offset": 0,
+              "length": 6,
+              "type": { "_": "textEntityTypeBotCommand" }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
